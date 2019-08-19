@@ -1,0 +1,9 @@
+swagger:
+  title: API标题
+  description: API描述
+  version: 1.0
+  terms-of-service-url: http://www.demo.cn/
+  base-package: org.qingshan.swagger
+  contact-name: qingshan
+  contact-url: http://www.demo.cn/
+  contact-email: 111111@qq.com
